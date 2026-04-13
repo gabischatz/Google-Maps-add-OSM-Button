@@ -13,7 +13,7 @@ Damit kannst du Koordinaten aus dem Kontextmenü sofort in **Google Maps** oder 
 
 ## Beispiel
 
-![Google Maps → OpenStreetMap Beispiel](images/google-maps-osm-beispiel.png)
+![Google Maps → OpenStreetMap Beispiel](google-maps-osm-beispiel.png)
 
 Das Kontextmenü in Google Maps wird erweitert.  
 Über „OpenStreetMap öffnen“ kann die Position direkt in OSM angezeigt werden.
