@@ -10,6 +10,14 @@ Dieses Skript erweitert das Rechtsklick-Menü in **Google Maps** um zwei zusätz
 - **OpenStreetMap öffnen**
 
 Damit kannst du Koordinaten aus dem Kontextmenü sofort in **Google Maps** oder **OpenStreetMap** öffnen, ohne die Werte erst manuell kopieren zu müssen.
+
+## Beispiel
+
+![Google Maps → OpenStreetMap Beispiel](images/google-maps-osm-beispiel.png)
+
+Das Kontextmenü in Google Maps wird erweitert.  
+Über „OpenStreetMap öffnen“ kann die Position direkt in OSM angezeigt werden.
+
 ## Erweiterung
 
 **Chrome Web Store:**  
