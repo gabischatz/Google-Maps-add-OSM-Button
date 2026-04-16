@@ -3,6 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      2.0
 // @description  Fügt im Google-Maps-Rechtsklick-Menü unter dem Koordinaten-Eintrag eigene Menüzeilen für OSM und Google Maps hinzu
+// @author       Lutz Müller (gabischatz)
 // @match        https://www.google.com/maps/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=google.com
 // @grant        none
